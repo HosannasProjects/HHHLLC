@@ -8,33 +8,51 @@ NAICS Codes for Consideration
 611430 - Professional and Management Develo9pment Training
 611699 - Other Miscellaneous Schools and Educational Services
 611710 - Educational Support Services
-621399 Offices of All Other Misc Health Practitioners
-812990 Personal Services NEC
+621399 - Offices of All Other Misc Health Practitioners
+812990 - Personal Services NEC
 
+Alternative Medicine
 Business Consulting
 Business Services
 Buyers Information Service
 Buyers Service
-Consumer orgnizations (advocacy, education, research, awareness, education)
-Errands and miscellaneous services
+Concierge Services
+Consumer Group Buying
+Consumer Orgnizations (advocacy, education, research, awareness, education)
+Devotion for the Day
+Errands and Miscellaneous Services
+Excort Service Personal
 Executive Training Consultants
 Exercise & Physical Fitness Programs (Wellness Coaching & Nutriton Counseling)
 Fashion Consultants
+Healing Arts
+Healers - Mind, Body & Spiritual
 Health and Fitnesss Program Consultants
+Health and Nutrition Consultants
 Herbalists
 Homeopaths
+Hypnotherapists
 Image Consultants Personal
 International Consultants
 Inventors
 Management Consulting Services
 Media Consultants
+Metaphysicians
+Natural Health and Education
 Parties/Events
+Personal Concierge
 Personal Service Bureaus
+Philosophers
 Planning Consultants
 Product Design / Development Consultants
+Psychic Mediums - forem of alternative medicine, energy healing
 Purchasing Service
 Metaphysicians
+Relaxation Therapy
+Restaurant & Referral Service Information
 Shopping Service Personal
+Shopping Service Business
 Schools & Educational Services
 Weight Control Services
 Writing Consultants
+Yoga
