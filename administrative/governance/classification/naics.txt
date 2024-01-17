@@ -11,17 +11,20 @@ NAICS Codes for Consideration
 621399 Offices of All Other Misc Health Practitioners
 812990 Personal Services NEC
 
+Business Consulting
+Business Services
 Consumer orgnizations (advocacy, education, research, awareness, education)
 Executive Training Consultants
 Herbalists
 Homeopaths
 International Consultants
 Inventors
+Management Consulting Services
 Media Consultants
 Parties/Events
 Planning Consultants
 Product Design / Development Consultants
 Purchasing Service
 Metaphysicians
-
+Schools & Educational Services
 Writing Consultants
