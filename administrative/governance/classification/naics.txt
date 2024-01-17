@@ -1,6 +1,7 @@
 NAICS Codes for Consideration
 
 541430 - Graphic Design Services
+541611 - Administrative Management and General Management Consulting Services (Strategic Planning)
 541613 - Marketing Consulting Services
 541690 - Other Scientific and Technical Consulting Services
 541990 - All Other Professional, Scientific, and Technical Services
