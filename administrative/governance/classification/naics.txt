@@ -6,7 +6,7 @@ NAICS Codes for Consideration
 541690 - Other Scientific and Technical Consulting Services
 541990 - All Other Professional, Scientific, and Technical Services
 561499 - All Other Business Support Services
-611430 - Professional and Management Develo9pment Training
+611430 - Professional and Management Development Training
 611699 - Other Miscellaneous Schools and Educational Services
 611710 - Educational Support Services
 621399 - Offices of All Other Misc Health Practitioners
